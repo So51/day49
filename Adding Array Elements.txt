@@ -1,0 +1,4 @@
+var numbers = [];
+numbers [0] = "Zero";
+numbers [1] = "One ";
+document.write (numbers);
